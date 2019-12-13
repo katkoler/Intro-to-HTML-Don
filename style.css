@@ -1,0 +1,69 @@
+
+
+h1 {
+  color:hotpink;
+  font-size:50pt;
+  text-align:center;
+}
+
+p {
+  color:purple;
+  font-size:30pt;
+}
+
+h2{
+  background:blue;
+}
+
+#para1 {
+  background:lightcoral;
+}
+
+p {
+  color:blue;
+}
+
+.center {
+  text-align:center;
+}
+
+#bigimg {
+  width:90%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border-style:dotted;
+  border-width:1cm;
+  border-color:lightcoral;
+}
+
+body {
+  background:lightblue;
+}
+
+#header{
+  /* width:100%;
+  height:150px;
+  float:left; */
+}
+
+#panel1{
+  /* width:20%;
+  height:500px;
+  float:left; */
+  background:lightgreen;
+}
+
+#content {
+  /* width:60%;
+  height:500px;
+  float:left; */
+  background:lightyellow;
+}
+
+#panel2{
+  /* width:20%;
+  height:500px;
+  float:right; */
+  background:lightpink;
+}
